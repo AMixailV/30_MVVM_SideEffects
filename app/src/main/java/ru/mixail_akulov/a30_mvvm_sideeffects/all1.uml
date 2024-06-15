@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.mixail_akulov.a30_mvvm_sideeffects.foundation</OriginalElement>
+  <nodes>
+    <node x="2443.480918367335" y="694.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.EmitterImpl</node>
+    <node x="1019.5642517006681" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactoryKt</node>
+    <node x="8419.177517006798" y="401.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator</node>
+    <node x="-286.0" y="290.00000000000006">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediatorsHolder</node>
+    <node x="1379.8333333333344" y="694.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask</node>
+    <node x="6302.897585034001" y="1513.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin</node>
+    <node x="2815.3034013605384" y="1876.8128272973154">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin</node>
+    <node x="1719.6391836734583" y="1032.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory</node>
+    <node x="4024.0975170067913" y="412.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter</node>
+    <node x="3280.5975170067913" y="1043.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts</node>
+    <node x="94.56425170066814" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionStatus</node>
+    <node x="7713.091734693877" y="130.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator</node>
+    <node x="85.5" y="660.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPluginsManager</node>
+    <node x="7331.427517006799" y="1535.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator</node>
+    <node x="473.5000000000009" y="638.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementationsHolder</node>
+    <node x="8355.427517006798" y="1491.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl</node>
+    <node x="1985.3834013605442" y="-9.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher</node>
+    <node x="4457.846401438944" y="164.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Listener</node>
+    <node x="8308.208333333336" y="1927.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin</node>
+    <node x="7158.133401360545" y="1938.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin</node>
+    <node x="4839.902604796822" y="152.5">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Holder</node>
+    <node x="6629.258401360546" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState</node>
+    <node x="5288.811750004768" y="1043.5">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorFragment.Screen</node>
+    <node x="6992.427517006799" y="1513.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator</node>
+    <node x="1208.5642517006681" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.EmitterKt</node>
+    <node x="8406.208333333336" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState</node>
+    <node x="1124.5642517006681" y="1524.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory.ThreadTask</node>
+    <node x="5041.347517006791" y="1043.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources</node>
+    <node x="5693.550068027211" y="1916.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator.Animations</node>
+    <node x="1361.5642517006681" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.TaskKt</node>
+    <node x="4662.347517006791" y="1032.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment.Screen</node>
+    <node x="7514.633401360545" y="368.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogConfig</node>
+    <node x="2029.2641836734583" y="1535.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils.Default</node>
+    <node x="268.0500680272107" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate</node>
+    <node x="-216.77422429302732" y="790.537066729386">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.ActivityScopeViewModel</node>
+    <node x="1469.125000000001" y="141.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.utils.delegates.Await</node>
+    <node x="7351.258401360545" y="944.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.SideEffectImplementation</node>
+    <node x="-13.735594893894472" y="1187.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegateHolder</node>
+    <node x="3748.5975170067913" y="694.5">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.NamedColor</node>
+    <node x="1748.125000000001" y="153.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.CancelledException</node>
+    <node x="4583.347517006791" y="368.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter</node>
+    <node x="4512.347517006791" y="683.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment</node>
+    <node x="1440.375000000001" y="346.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask</node>
+    <node x="1199.8142517006681" y="1032.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory</node>
+    <node x="3982.5975170067913" y="728.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter.Companion</node>
+    <node x="3879.564251700668" y="1447.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel</node>
+    <node x="3852.564251700668" y="1744.0772817037912">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState</node>
+    <node x="3129.8333333333344" y="1480.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository</node>
+    <node x="5106.811750004768" y="683.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorFragment</node>
+    <node x="221.2617346938714" y="1501.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.BaseActivity</node>
+    <node x="2242.076438967923" y="1876.8128272973154">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.BaseApplication</node>
+    <node x="6217.558401360545" y="1043.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.Intents</node>
+    <node x="3846.8475170067913" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.NamedColorListItem</node>
+    <node x="6645.133401360545" y="1927.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin</node>
+    <node x="1396.8142517006681" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory.HandlerThreadTask</node>
+    <node x="362.56425170066814" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.ResultRendererKt</node>
+    <node x="7838.927517006799" y="1678.8102373044915">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl.Companion</node>
+    <node x="1992.3834013605442" y="-113.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.Dispatcher</node>
+    <node x="801.5642517006681" y="2015.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.ColorsRepositoryKt</node>
+    <node x="5821.8034013605375" y="1524.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator</node>
+    <node x="2315.8975850340016" y="1547.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.Companion</node>
+    <node x="4843.347517006791" y="1032.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator</node>
+    <node x="5211.8034013605375" y="1436.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator</node>
+    <node x="4323.347517006791" y="1032.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.Permissions</node>
+    <node x="8384.427517006798" y="705.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord</node>
+    <node x="3355.3333333333344" y="1709.2714923716799">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository.Companion</node>
+    <node x="1124.125000000001" y="142.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.Task</node>
+    <node x="3443.5975170067913" y="988.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.ColorsRepository</node>
+    <node x="2815.3034013605384" y="1699.865581927227">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator</node>
+    <node x="4261.814251700668" y="1447.0">ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel</node>
+    <node x="7658.427517006799" y="1524.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl</node>
+    <node x="2052.2641836734583" y="1043.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils</node>
+    <node x="2667.191234712307" y="2076.760072667404">ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity</node>
+    <node x="2720.480918367335" y="728.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory</node>
+    <node x="2371.095068027205" y="1021.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask</node>
+    <node x="6157.855918367334" y="164.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.Dialogs</node>
+    <node x="1609.9392517006681" y="1524.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory</node>
+    <node x="7514.133401360545" y="1938.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin</node>
+    <node x="1855.8975850340016" y="705.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory.ExecutorServiceTask</node>
+    <node x="8002.4275170067995" y="1535.5">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator</node>
+    <node x="1989.7641836734583" y="1981.5571363689817">ru.mixail_akulov.a30_mvvm_sideeffects.App</node>
+    <node x="5953.383401360545" y="1927.0">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" relationship="CREATE">
+      <point x="74.42040435446779" y="59.78023655432435" />
+      <point x="2891.611639066775" y="2240.3255205613345" />
+      <point x="8544.208333333336" y="2240.3255205613345" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.Dialogs" relationship="TO_ONE">
+      <point x="-98.40938451826423" y="-112.42893909103304" />
+      <point x="4341.404867182404" y="1198.8400484449362" />
+      <point x="4265.097517006791" y="1198.8400484449362" />
+      <point x="4265.097517006791" y="294.0" />
+      <point x="6219.105918367334" y="294.0" />
+      <point x="-61.25" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.BaseActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" relationship="TO_ONE">
+      <point x="108.0" y="-127.0" />
+      <point x="491.2617346938714" y="1479.0" />
+      <point x="535.0500680272107" y="1479.0" />
+      <point x="89.0" y="193.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.NamedColor" relationship="CREATE">
+      <point x="111.39135120508399" y="-91.39437385270821" />
+      <point x="3433.2246845384184" y="1349.0" />
+      <point x="3433.0975170067913" y="1349.0" />
+      <point x="3433.0975170067913" y="912.0" />
+      <point x="3802.0975170067913" y="912.0" />
+      <point x="-53.5" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.BaseActivity" relationship="GENERALIZATION">
+      <point x="-141.86844108628884" y="9.637903036866192" />
+      <point x="1504.4940907289247" y="2146.8979757042703" />
+      <point x="1504.4940907289247" y="1950.9489878521351" />
+      <point x="383.2617346938714" y="1950.9489878521351" />
+      <point x="0.0" y="127.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementationsHolder" relationship="CREATE">
+      <point x="-89.0" y="-193.0" />
+      <point x="357.0500680272107" y="989.0" />
+      <point x="591.5000000000009" y="989.0" />
+      <point x="-118.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" relationship="CREATE">
+      <point x="150.2854722226898" y="-37.09605773619796" />
+      <point x="5274.4700680272035" y="2100.164014931206" />
+      <point x="-125.33333333333348" y="138.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState" relationship="TO_ONE">
+      <point x="40.64617277426805" y="46.98946973545401" />
+      <point x="8582.323689781066" y="617.9786768422665" />
+      <point x="8702.643592891194" y="617.9786768422665" />
+      <point x="8702.643592891194" y="943.2708400141119" />
+      <point x="8559.752965099427" y="943.2708400141119" />
+      <point x="45.5446317660917" y="-41.0702259150637" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory.ThreadTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" relationship="GENERALIZATION">
+      <point x="-92.0" y="-49.5" />
+      <point x="1170.5642517006681" y="1359.0" />
+      <point x="1189.3142517006681" y="1359.0" />
+      <point x="1189.3142517006681" y="628.0" />
+      <point x="1603.875000000001" y="628.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory.HandlerThreadTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" relationship="GENERALIZATION">
+      <point x="0.0" y="-49.5" />
+      <point x="1534.8142517006681" y="902.0" />
+      <point x="1357.125000000001" y="902.0" />
+      <point x="1357.125000000001" y="628.0" />
+      <point x="1603.875000000001" y="628.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="6156.383401360545" y="1789.0" />
+      <point x="5939.3034013605375" y="1789.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-84.0" y="-50.0" />
+      <point x="7598.133401360545" y="1759.171484802158" />
+      <point x="6580.605540988091" y="1759.171484802158" />
+      <point x="58.70795595408981" y="59.819912388373496" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="REALIZATION">
+      <point x="-94.0" y="-138.0" />
+      <point x="5305.8034013605375" y="1338.9170462916793" />
+      <point x="4960.2838583898465" y="1338.9170462916793" />
+      <point x="27.93634138305515" y="37.452218067537615" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.NamedColorListItem" relationship="CREATE">
+      <point x="46.91785438662646" y="-133.3946333591366" />
+      <point x="4107.482106087295" y="1298.2571515080242" />
+      <point x="4079.2793639781967" y="1298.2571515080242" />
+      <point x="87.43184697140532" y="54.51123046624343" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" relationship="CREATE">
+      <point x="0.0" y="-38.5" />
+      <point x="1870.1391836734583" y="912.0" />
+      <point x="1542.3333333333344" y="912.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState" relationship="TO_ONE">
+      <point x="63.75" y="-82.5" />
+      <point x="8546.677517006798" y="1359.0" />
+      <point x="8514.208333333336" y="1359.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.Dispatcher" relationship="REALIZATION">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.EmitterImpl" relationship="TO_ONE">
+      <point x="-34.5" y="-49.5" />
+      <point x="2474.595068027205" y="922.0" />
+      <point x="2486.314251700668" y="922.0" />
+      <point x="-85.66666666666667" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" relationship="CREATE">
+      <point x="44.0" y="-38.5" />
+      <point x="1331.8142517006681" y="912.0" />
+      <point x="1542.3333333333344" y="912.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Holder" relationship="CREATE">
+      <point x="106.33333333333331" y="-83.0" />
+      <point x="4849.180850340124" y="284.0" />
+      <point x="4981.652604796822" y="284.0" />
+      <point x="47.25" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory.ThreadTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory" relationship="INNER_CLASS">
+      <point x="92.0" y="-49.5" />
+      <point x="1354.5642517006681" y="1359.0" />
+      <point x="1331.8142517006681" y="1359.0" />
+      <point x="44.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory.HandlerThreadTask" relationship="CREATE">
+      <point x="-75.33333333333326" y="-49.5" />
+      <point x="1647.6059183673349" y="1359.0" />
+      <point x="1465.8142517006681" y="1359.0" />
+      <point x="-69.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.ColorsRepository" relationship="TO_ONE">
+      <point x="-82.16958817756085" y="-115.93793427361584" />
+      <point x="3978.3946635231073" y="1219.25146057969" />
+      <point x="3623.849730721504" y="1219.25146057969" />
+      <point x="38.252213714712525" y="85.2082487506932" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" relationship="TO_ONE">
+      <point x="-26.0" y="-14.5" />
+      <point x="2106.7641836734583" y="1829.0" />
+      <point x="1861.3310931925348" y="1829.0" />
+      <point x="-8.80809048092351" y="46.848777420118495" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory.ThreadTask" relationship="CREATE">
+      <point x="-44.0" y="38.5" />
+      <point x="1243.8142517006681" y="1138.986462884338" />
+      <point x="1262.5642517006681" y="1138.986462884338" />
+      <point x="0.0" y="-49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.Task" relationship="REALIZATION">
+      <point x="0.0" y="-60.5" />
+      <point x="1542.3333333333344" y="594.359160698829" />
+      <point x="1350.375000000001" y="594.359160698829" />
+      <point x="1350.375000000001" y="324.0" />
+      <point x="1367.875000000001" y="324.0" />
+      <point x="81.25" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState" relationship="TO_ONE">
+      <point x="27.678430493837368" y="-58.654443568173974" />
+      <point x="7179.605947500636" y="1271.7748388029884" />
+      <point x="6823.93105933134" y="1271.7748388029884" />
+      <point x="51.17265797079472" y="51.17139623420121" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" relationship="CREATE">
+      <point x="151.6605568296627" y="23.40766497060895" />
+      <point x="6891.633401360545" y="2160.667737638013" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Listener" relationship="REALIZATION">
+      <point x="-120.66666666666674" y="-127.0" />
+      <point x="3939.897585034001" y="1359.0" />
+      <point x="3757.4346442923475" y="1359.0" />
+      <point x="3757.4346442923475" y="284.0" />
+      <point x="4496.679734772277" y="284.0" />
+      <point x="-77.66666666666663" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" relationship="CREATE">
+      <point x="-75.33333333333326" y="-49.5" />
+      <point x="1647.6059183673349" y="1359.0" />
+      <point x="1386.3142517006681" y="1359.0" />
+      <point x="1386.3142517006681" y="912.0" />
+      <point x="1542.3333333333344" y="912.0" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" relationship="CREATE">
+      <point x="84.0" y="-50.0" />
+      <point x="7766.133401360545" y="1859.1428409224545" />
+      <point x="8146.9275170067995" y="1859.1428409224545" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.NamedColorListItem" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.NamedColor" relationship="TO_ONE">
+      <point x="0.0" y="-49.5" />
+      <point x="3991.8475170067913" y="922.0" />
+      <point x="3909.0975170067913" y="922.0" />
+      <point x="53.5" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPluginsManager" relationship="CREATE">
+      <point x="-89.0" y="-193.0" />
+      <point x="357.0500680272107" y="989.0" />
+      <point x="177.5" y="989.0" />
+      <point x="-92.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState" relationship="TO_ONE">
+      <point x="-81.0" y="-49.5" />
+      <point x="7739.427517006799" y="1249.0" />
+      <point x="6849.508401360545" y="1249.0" />
+      <point x="6849.508401360545" y="1229.0" />
+      <point x="6849.713895712082" y="1229.0" />
+      <point x="76.9554943515368" y="36.13140834543515" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.Permissions" relationship="TO_ONE">
+      <point x="-18.16625798935911" y="-122.95514888271077" />
+      <point x="4421.647993711309" y="1107.012863395398" />
+      <point x="-84.82028470633031" y="36.51286339539797" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.ColorsRepository" relationship="TO_ONE">
+      <point x="-98.37204443573319" y="-116.13953377774192" />
+      <point x="4341.442207264935" y="1198.8400484449362" />
+      <point x="3656.5975170067913" y="1198.8400484449362" />
+      <point x="71.0" y="82.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-84.0" y="-50.0" />
+      <point x="7242.133401360545" y="1759.171484802158" />
+      <point x="6559.119844004139" y="1759.171484802158" />
+      <point x="37.22225897013777" y="63.042766935966256" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="7151.927517006799" y="1289.0" />
+      <point x="6772.758401360546" y="1289.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" relationship="CREATE">
+      <point x="137.90971075993366" y="4.156480472988278" />
+      <point x="6156.383401360545" y="2141.4165531403924" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator.Animations" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" relationship="INNER_CLASS">
+      <point x="49.0" y="-71.5" />
+      <point x="5840.550068027211" y="1809.0" />
+      <point x="5525.136734693871" y="1809.0" />
+      <point x="125.33333333333348" y="138.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin" relationship="CREATE">
+      <point x="148.9103876157169" y="44.721476378688294" />
+      <point x="7326.133401360545" y="2181.9815490460924" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="127.60000000000036" y="-61.0" />
+      <point x="7279.527517006799" y="339.9809834916855" />
+      <point x="7919.652621783014" y="339.9809834916855" />
+      <point x="59.560887089137395" y="63.411330975123775" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="2132.7641836734583" y="1819.0" />
+      <point x="1779.4392517006681" y="1819.0" />
+      <point x="56.5" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources" relationship="TO_ONE">
+      <point x="159.00278145109405" y="-126.95879327598323" />
+      <point x="4219.567033151762" y="1249.0" />
+      <point x="5093.347517006791" y="1249.0" />
+      <point x="-52.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" relationship="INNER_CLASS">
+      <point x="17.332192152241987" y="-32.18419702447841" />
+      <point x="8560.3223360695" y="722.8158029755216" />
+      <point x="8560.3223360695" y="532.0321130362587" />
+      <point x="18.644819062701572" y="47.67701203894046" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils.Default" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="34.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils.Default" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils" relationship="REALIZATION">
+      <point x="-34.5" y="-38.5" />
+      <point x="2063.7641836734583" y="1359.0" />
+      <point x="2075.2641836734583" y="1359.0" />
+      <point x="-46.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.EmitterImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter" relationship="REALIZATION">
+      <point x="0.0" y="-61.0" />
+      <point x="2571.980918367335" y="628.0" />
+      <point x="4055.5975170067913" y="628.0" />
+      <point x="-63.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="84.0" y="-50.0" />
+      <point x="3067.3034013605384" y="1901.849941336209" />
+      <point x="5002.984668539933" y="1901.849941336209" />
+      <point x="5002.984668539933" y="1851.276645383558" />
+      <point x="6501.10846214747" y="1851.276645383558" />
+      <point x="-20.789122886531004" y="63.042766935966256" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils.Default" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils" relationship="INNER_CLASS">
+      <point x="34.5" y="-38.5" />
+      <point x="2132.7641836734583" y="1359.0" />
+      <point x="2121.2641836734583" y="1359.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="2132.7641836734583" y="1819.0" />
+      <point x="2305.3975850340016" y="1819.0" />
+      <point x="2305.3975850340016" y="131.97139396790277" />
+      <point x="2130.883401360544" y="131.97139396790277" />
+      <point x="48.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPluginsManager" relationship="TO_ONE">
+      <point x="89.0" y="-193.0" />
+      <point x="535.0500680272107" y="979.0" />
+      <point x="361.5" y="979.0" />
+      <point x="92.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.CancelledException" relationship="CREATE">
+      <point x="108.33333333333337" y="-60.5" />
+      <point x="1650.6666666666679" y="618.0" />
+      <point x="1860.125000000001" y="618.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Listener" relationship="TO_ONE">
+      <point x="-80.79047822508073" y="-75.68220478057987" />
+      <point x="4662.057038781711" y="284.0" />
+      <point x="4574.346401438944" y="284.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.utils.delegates.Await" relationship="CREATE">
+      <point x="0.0" y="-105.0" />
+      <point x="1603.875000000001" y="324.0" />
+      <point x="1602.9091749105587" y="324.0" />
+      <point x="1602.9091749105587" y="309.4070526881545" />
+      <point x="1533.875000000001" y="309.4070526881545" />
+      <point x="-64.75" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory" relationship="REALIZATION">
+      <point x="-44.0" y="-38.5" />
+      <point x="1243.8142517006681" y="958.4890812628669" />
+      <point x="2764.230918367335" y="958.4890812628669" />
+      <point x="-43.75" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" relationship="CREATE">
+      <point x="184.03780222779915" y="-48.18392776373162" />
+      <point x="7075.671203588344" y="1859.1428409224545" />
+      <point x="7739.427517006799" y="1859.1428409224545" />
+      <point x="-81.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" relationship="INNER_CLASS">
+      <point x="-79.25148236284576" y="-62.94688461767191" />
+      <point x="3972.3127693378224" y="1759.0437440189867" />
+      <point x="3972.3127693378224" y="1759.0437440189867" />
+      <point x="-88.25148236284576" y="127.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogConfig" relationship="TO_ONE">
+      <point x="-41.58276397679765" y="-47.84602798392211" />
+      <point x="8499.34475303" y="581.1245769651356" />
+      <point x="7760.633401360545" y="581.1245769651356" />
+      <point x="82.0" y="82.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment.Screen" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment" relationship="INNER_CLASS">
+      <point x="0.0" y="-38.5" />
+      <point x="0.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory" relationship="TO_ONE">
+      <point x="-97.49199028727071" y="-111.73926303542862" />
+      <point x="4342.322261413397" y="1198.8400484449362" />
+      <point x="4248.083333333334" y="1198.8400484449362" />
+      <point x="4248.083333333334" y="902.0" />
+      <point x="2851.730918367335" y="902.0" />
+      <point x="43.75" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" relationship="INNER_CLASS">
+      <point x="67.22339734314846" y="-44.26498874709159" />
+      <point x="8581.431730676484" y="959.8148266917544" />
+      <point x="8721.308942699106" y="959.8148266917544" />
+      <point x="8721.308942699106" y="597.3737308954067" />
+      <point x="8600.15295756657" y="597.3737308954067" />
+      <point x="58.47544055977232" y="48.69613907541179" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediatorsHolder" relationship="TO_ONE">
+      <point x="-51.5" y="-14.5" />
+      <point x="-95.27422429302732" y="761.2153824351967" />
+      <point x="-186.0" y="761.2153824351967" />
+      <point x="-100.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory" relationship="REALIZATION">
+      <point x="-100.33333333333331" y="-38.5" />
+      <point x="1769.805850340125" y="958.4890812628669" />
+      <point x="2764.230918367335" y="958.4890812628669" />
+      <point x="-43.75" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" relationship="TO_ONE">
+      <point x="-21.230890462914886" y="-37.366472982551386" />
+      <point x="2938.0725108976235" y="109.0" />
+      <point x="2033.8834013605442" y="109.0" />
+      <point x="-48.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel.ViewState" relationship="CREATE">
+      <point x="90.5" y="127.0" />
+      <point x="4151.064251700668" y="1754.7671863278224" />
+      <point x="4151.064251700668" y="1754.7671863278224" />
+      <point x="99.5" y="-71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" relationship="INNER_CLASS">
+      <point x="1.3675306918185015" y="-15.176074886717515" />
+      <point x="7902.795047698617" y="1650.817081208887" />
+      <point x="7901.427517006799" y="1650.817081208887" />
+      <point x="81.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" relationship="CREATE">
+      <point x="-64.25" y="-27.0" />
+      <point x="2380.1475850340016" y="1309.0" />
+      <point x="2360.595068027205" y="1309.0" />
+      <point x="2360.595068027205" y="902.0" />
+      <point x="1556.535357925729" y="902.0" />
+      <point x="14.202024592394537" y="60.43130758889697" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment.Screen" relationship="CREATE">
+      <point x="0.4248216079122358" y="-126.39464213060137" />
+      <point x="4440.23907330858" y="1189.4644222360084" />
+      <point x="4742.847517006791" y="1189.4644222360084" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="2132.7641836734583" y="1819.0" />
+      <point x="3225.8333333333344" y="1819.0" />
+      <point x="-96.0" y="94.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" relationship="CREATE">
+      <point x="137.22721379066934" y="-55.94298299008665" />
+      <point x="8681.435547124005" y="996.3578214106556" />
+      <point x="8758.390913396948" y="996.3578214106556" />
+      <point x="8758.390913396948" y="562.1371878417262" />
+      <point x="8639.397597232657" y="562.1371878417262" />
+      <point x="97.72008022585942" y="47.07106408689157" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources" relationship="TO_ONE">
+      <point x="56.81773816779423" y="-124.2792272144984" />
+      <point x="4496.631989868462" y="1277.75" />
+      <point x="5101.642555986659" y="1277.75" />
+      <point x="-43.70496102013203" y="25.351473526176278" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" relationship="INNER_CLASS">
+      <point x="-95.66666666666652" y="49.5" />
+      <point x="6677.091734693879" y="1299.0" />
+      <point x="7088.127517006798" y="1299.0" />
+      <point x="-63.80000000000018" y="-61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter" relationship="TO_ONE">
+      <point x="-41.499687304285544" y="-24.324578646682767" />
+      <point x="8499.427829702512" y="598.9528606032097" />
+      <point x="4201.404770634409" y="598.9528606032097" />
+      <point x="82.80725362761768" y="38.82567611131236" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-123.25" y="-61.0" />
+      <point x="6768.383401360545" y="1759.171484802158" />
+      <point x="6540.857001567781" y="1759.171484802158" />
+      <point x="18.959416533779404" y="64.11705178516377" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" relationship="TO_ONE">
+      <point x="-26.0" y="-14.5" />
+      <point x="2106.7641836734583" y="1829.0" />
+      <point x="956.0000000000009" y="1829.0" />
+      <point x="956.0000000000009" y="109.0" />
+      <point x="2033.8834013605442" y="109.0" />
+      <point x="-48.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" relationship="CREATE">
+      <point x="0.0" y="-14.5" />
+      <point x="2132.7641836734583" y="1819.0" />
+      <point x="1993.6391836734583" y="1819.0" />
+      <point x="1993.6391836734583" y="1359.0" />
+      <point x="1945.3891836734583" y="1359.0" />
+      <point x="75.25" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorFragment" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter" relationship="CREATE">
+      <point x="0.0" y="-72.0" />
+      <point x="0.0" y="83.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources" relationship="REALIZATION">
+      <point x="-76.75" y="-38.5" />
+      <point x="7408.177517006799" y="1259.230006055617" />
+      <point x="5197.347517006791" y="1259.230006055617" />
+      <point x="52.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin" relationship="CREATE">
+      <point x="74.42040435446779" y="60.88030423990267" />
+      <point x="2891.611639066775" y="2219.765427403452" />
+      <point x="7682.133401360545" y="2219.765427403452" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter" relationship="INNER_CLASS">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogConfig" relationship="CREATE">
+      <point x="155.9839172197835" y="-125.20566735386683" />
+      <point x="4595.798168920452" y="1381.3451248633094" />
+      <point x="5259.847517006791" y="1381.3451248633094" />
+      <point x="5259.847517006791" y="583.6228848256778" />
+      <point x="7596.633401360545" y="583.6228848256778" />
+      <point x="-82.0" y="82.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState" relationship="CREATE">
+      <point x="77.38285390564852" y="53.85270635156019" />
+      <point x="8619.060370912446" y="578.0" />
+      <point x="8739.726348543045" y="578.0" />
+      <point x="8739.726348543045" y="978.7222400376317" />
+      <point x="8600.349886870848" y="978.7222400376317" />
+      <point x="86.14155353751266" y="-47.99928192276275" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.BaseApplication" relationship="REALIZATION">
+      <point x="71.6638976039053" y="-28.70292155451625" />
+      <point x="2204.4280812773636" y="1839.0" />
+      <point x="2385.076438967923" y="1839.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" relationship="CREATE">
+      <point x="-40.66248606096997" y="-37.92970763756762" />
+      <point x="2918.6409152995684" y="131.97139396790277" />
+      <point x="2130.883401360544" y="131.97139396790277" />
+      <point x="48.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" relationship="INNER_CLASS">
+      <point x="0.1946144956605167" y="-18.443200051791337" />
+      <point x="3418.027947828995" y="1687.3355741906928" />
+      <point x="3417.8333333333344" y="1687.3355741906928" />
+      <point x="96.0" y="94.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory.ExecutorServiceTask" relationship="CREATE">
+      <point x="-0.09123587394515198" y="-34.26336650384496" />
+      <point x="1870.0479477995132" y="996.0358287610882" />
+      <point x="1870.1391836734583" y="996.0358287610882" />
+      <point x="1870.1391836734583" y="912.0" />
+      <point x="1924.8975850340016" y="912.0" />
+      <point x="-69.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.EmitterImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" relationship="INNER_CLASS">
+      <point x="85.66666666666674" y="61.0" />
+      <point x="2657.6475850340016" y="922.0" />
+      <point x="2612.595068027205" y="922.0" />
+      <point x="103.5" y="-49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" relationship="TO_ONE">
+      <point x="-26.0" y="-14.5" />
+      <point x="2106.7641836734583" y="1829.0" />
+      <point x="1666.4392517006681" y="1829.0" />
+      <point x="-56.5" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" relationship="CREATE">
+      <point x="185.01740495452668" y="-54.08623441996133" />
+      <point x="7076.650806315071" y="1841.8285530454484" />
+      <point x="7077.616496069386" y="1841.8285530454484" />
+      <point x="-74.31102093741265" y="73.71323544395659" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator.Animations" relationship="TO_ONE">
+      <point x="0.0" y="138.0" />
+      <point x="5399.8034013605375" y="1819.0" />
+      <point x="5742.550068027211" y="1819.0" />
+      <point x="-49.0" y="-71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.Task" relationship="REALIZATION">
+      <point x="-109.0" y="-105.0" />
+      <point x="1494.875000000001" y="324.0" />
+      <point x="1367.875000000001" y="324.0" />
+      <point x="81.25" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" relationship="GENERALIZATION">
+      <point x="-103.5" y="-49.5" />
+      <point x="2405.595068027205" y="922.0" />
+      <point x="2407.8975850340016" y="922.0" />
+      <point x="2407.8975850340016" y="628.0" />
+      <point x="1603.875000000001" y="628.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.BaseActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" relationship="CREATE">
+      <point x="0.0" y="-127.0" />
+      <point x="383.2617346938714" y="1479.0" />
+      <point x="357.0500680272107" y="1479.0" />
+      <point x="-89.0" y="193.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord" relationship="CREATE">
+      <point x="-2.9483064061678306" y="49.14878228234119" />
+      <point x="8538.72921060063" y="606.4713748783531" />
+      <point x="8540.072066662126" y="606.4713748783531" />
+      <point x="-0.8554503446721355" y="-45.365672124132516" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="-61.25" y="-50.0" />
+      <point x="8480.427517006798" y="297.8742385372439" />
+      <point x="7980.695669055517" y="297.8742385372439" />
+      <point x="120.60393436164031" y="57.98117775252854" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator.RetainedState" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.Emitter" relationship="TO_ONE">
+      <point x="0.0" y="-49.5" />
+      <point x="6772.758401360546" y="618.0" />
+      <point x="4181.597517006791" y="618.0" />
+      <point x="63.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="-49.53228478295114" y="-37.60065097882716" />
+      <point x="8097.395232223848" y="320.187880731378" />
+      <point x="7962.280244599174" y="320.187880731378" />
+      <point x="102.188509905297" y="55.16082333328643" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory.ExecutorServiceTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" relationship="GENERALIZATION">
+      <point x="0.0" y="-49.5" />
+      <point x="1993.8975850340016" y="628.0" />
+      <point x="1603.875000000001" y="628.0" />
+      <point x="0.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorFragment.Screen" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorFragment" relationship="INNER_CLASS">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="135.33333333333303" y="-61.0" />
+      <point x="6291.716734693878" y="1759.171484802158" />
+      <point x="6521.897585034001" y="1759.171484802158" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.EmitterImpl" relationship="CREATE">
+      <point x="34.5" y="-49.5" />
+      <point x="2543.595068027205" y="922.0" />
+      <point x="2571.980918367335" y="922.0" />
+      <point x="0.0" y="61.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.Dialogs" relationship="REALIZATION">
+      <point x="-45.454034518350454" y="-44.378263476219786" />
+      <point x="8496.223482488447" y="73.7716059144978" />
+      <point x="6341.605918367334" y="73.7716059144978" />
+      <point x="61.25" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.NamedColor" relationship="TO_ONE">
+      <point x="0.0" y="-94.0" />
+      <point x="3321.8333333333344" y="1359.0" />
+      <point x="3270.0975170067913" y="1359.0" />
+      <point x="3270.0975170067913" y="922.0" />
+      <point x="3909.0975170067913" y="922.0" />
+      <point x="53.5" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.App" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils.Default" relationship="TO_ONE">
+      <point x="-26.0" y="-14.5" />
+      <point x="2106.7641836734583" y="1829.0" />
+      <point x="2063.7641836734583" y="1829.0" />
+      <point x="-34.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" relationship="TO_ONE">
+      <point x="0.0" y="-94.0" />
+      <point x="3321.8333333333344" y="1359.0" />
+      <point x="1861.3310931925348" y="1359.0" />
+      <point x="-8.80809048092351" y="36.53564286782171" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory" relationship="TO_ONE">
+      <point x="-82.60961525179209" y="-115.93793427361584" />
+      <point x="3977.954636448876" y="1219.25146057969" />
+      <point x="3836.3475170067913" y="1219.25146057969" />
+      <point x="3836.3475170067913" y="902.0" />
+      <point x="2851.730918367335" y="902.0" />
+      <point x="43.75" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl" relationship="CREATE">
+      <point x="137.22721379066934" y="-57.26306421278059" />
+      <point x="8681.435547124005" y="1839.0" />
+      <point x="8482.927517006798" y="1839.0" />
+      <point x="0.0" y="82.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory.ExecutorServiceTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.ExecutorServiceTasksFactory" relationship="INNER_CLASS">
+      <point x="69.0" y="49.5" />
+      <point x="2062.8975850340016" y="940.6742545711123" />
+      <point x="1970.4725170067918" y="940.6742545711123" />
+      <point x="100.33333333333348" y="-38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.utils.delegates.Await" relationship="TO_ONE">
+      <point x="109.0" y="-105.0" />
+      <point x="1712.875000000001" y="304.0" />
+      <point x="1663.375000000001" y="304.0" />
+      <point x="64.75" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="58.75" y="-49.5" />
+      <point x="5998.0534013605375" y="319.7765861571082" />
+      <point x="7898.652535122298" y="319.7765861571082" />
+      <point x="38.56080042842132" y="63.514227320836085" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.Intents" relationship="TO_ONE">
+      <point x="55.91656271976808" y="-119.54805611236338" />
+      <point x="4495.730814420436" y="1277.75" />
+      <point x="6261.558401360545" y="1277.75" />
+      <point x="-44.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="TO_ONE">
+      <point x="-135.33333333333303" y="-61.0" />
+      <point x="6021.050068027212" y="1799.0" />
+      <point x="5811.3034013605375" y="1799.0" />
+      <point x="5811.3034013605375" y="1322.1245769651357" />
+      <point x="5000.436328913455" y="1322.1245769651357" />
+      <point x="68.08881190666398" y="34.702048853591805" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Holder" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter" relationship="INNER_CLASS">
+      <point x="-47.25" y="38.5" />
+      <point x="4887.152604796822" y="274.0" />
+      <point x="4832.599758591825" y="274.0" />
+      <point x="89.75224158503352" y="-75.68220478057987" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" relationship="CREATE">
+      <point x="-64.25" y="-27.0" />
+      <point x="2380.1475850340016" y="1309.0" />
+      <point x="2440.095068027205" y="1309.0" />
+      <point x="-69.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorFragment.Screen" relationship="CREATE">
+      <point x="73.90029235272596" y="58.78929558315622" />
+      <point x="2891.091527065033" y="2259.618817025044" />
+      <point x="5156.865466741116" y="2259.618817025044" />
+      <point x="5156.865466741116" y="1397.306749065408" />
+      <point x="5337.311750004768" y="1397.306749065408" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts" relationship="TO_ONE">
+      <point x="-99.25209858419657" y="-117.8996420746671" />
+      <point x="4340.562153116472" y="1198.8400484449362" />
+      <point x="3379.919927150579" y="1198.8400484449362" />
+      <point x="28.322410143787693" y="24.739927332595926" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator.Animations" relationship="CREATE">
+      <point x="145.47267609828486" y="-16.469788631604843" />
+      <point x="5791.550068027211" y="2120.7902840357992" />
+      <point x="0.0" y="71.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.currentcolor.CurrentColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="TO_ONE">
+      <point x="56.141856581774846" y="-122.92746404245986" />
+      <point x="4495.956108282443" y="1277.75" />
+      <point x="4881.4915104103" y="1277.75" />
+      <point x="-50.85600659649117" y="37.79598921928073" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="94.0" y="-138.0" />
+      <point x="5493.8034013605375" y="1359.7428484919758" />
+      <point x="7497.720896927937" y="1359.7428484919758" />
+      <point x="-15.53750443260742" y="127.10535786939863" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="86.00659520859244" y="-35.38256708053882" />
+      <point x="3045.309996569131" y="300.5010152836747" />
+      <point x="7881.150252787773" y="300.5010152836747" />
+      <point x="21.058518093896055" y="63.411330975123775" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.Intents" relationship="REALIZATION">
+      <point x="-72.25" y="-38.5" />
+      <point x="8074.6775170067995" y="1239.0" />
+      <point x="6349.558401360545" y="1239.0" />
+      <point x="44.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.ActivityScopeViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediatorsHolder" relationship="CREATE">
+      <point x="28.613416529371534" y="-59.65181479212424" />
+      <point x="-15.160807763655782" y="761.2153824351967" />
+      <point x="14.0" y="761.2153824351967" />
+      <point x="100.0" y="105.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.MainActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin" relationship="CREATE">
+      <point x="152.34809913314893" y="-56.34724223381863" />
+      <point x="2983.3034013605384" y="2080.9128304335854" />
+      <point x="0.0" y="50.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.dispatchers.MainThreadDispatcher" relationship="CREATE">
+      <point x="0.0" y="-61.0" />
+      <point x="7860.091734693877" y="131.97139396790277" />
+      <point x="2130.883401360544" y="131.97139396790277" />
+      <point x="48.5" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.BaseActivity" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegateHolder" relationship="REALIZATION">
+      <point x="-108.0" y="-127.0" />
+      <point x="275.2617346938714" y="1479.0" />
+      <point x="99.26440510610553" y="1479.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.ColorsRepository" relationship="REALIZATION">
+      <point x="128.0" y="-94.0" />
+      <point x="3449.8333333333344" y="1359.0" />
+      <point x="3514.5975170067913" y="1359.0" />
+      <point x="-71.0" y="82.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.TasksFactory" relationship="REALIZATION">
+      <point x="22.369077778528663" y="-50.14183564352152" />
+      <point x="1745.3083294791968" y="1316.75" />
+      <point x="1696.2267176870632" y="1316.75" />
+      <point x="1696.2267176870632" y="958.4890812628669" />
+      <point x="2764.230918367335" y="958.4890812628669" />
+      <point x="-43.75" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.Permissions" relationship="REALIZATION">
+      <point x="-127.59999999999991" y="-61.0" />
+      <point x="7024.327517006799" y="1302.1245769651357" />
+      <point x="4562.597517006791" y="1302.1245769651357" />
+      <point x="79.75" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="-63.75" y="-82.5" />
+      <point x="8419.177517006798" y="1328.5885878652462" />
+      <point x="7539.618006046643" y="1328.5885878652462" />
+      <point x="26.359604686098464" y="124.95678817100338" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementationsHolder" relationship="TO_ONE">
+      <point x="89.0" y="-193.0" />
+      <point x="535.0500680272107" y="979.0" />
+      <point x="827.5000000000009" y="979.0" />
+      <point x="118.0" y="72.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory.HandlerThreadTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.factories.HandlerThreadTasksFactory" relationship="INNER_CLASS">
+      <point x="106.50330437620414" y="55.44305621369904" />
+      <point x="1641.3175560768723" y="1329.0" />
+      <point x="1722.9392517006681" y="1329.0" />
+      <point x="0.0" y="-49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter.Listener" target="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ColorsAdapter" relationship="INNER_CLASS">
+      <point x="77.66666666666674" y="27.0" />
+      <point x="4652.013068105611" y="274.0" />
+      <point x="4680.8570236426685" y="274.0" />
+      <point x="-61.99049336412281" y="-83.73934114956165" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts" relationship="TO_ONE">
+      <point x="-82.26766354704296" y="-125.62902992528825" />
+      <point x="3978.296588153625" y="1219.25146057969" />
+      <point x="3361.65708471422" y="1219.25146057969" />
+      <point x="10.059567707428869" y="24.739927332595926" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.RetainedState" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator.DialogRecord" relationship="TO_ONE">
+      <point x="27.125380169971322" y="-45.6934266368155" />
+      <point x="8541.333713503307" y="922.0" />
+      <point x="8540.927517006798" y="922.0" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.SynchronizedTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.Task" relationship="TO_ONE">
+      <point x="-108.33333333333326" y="-60.5" />
+      <point x="1434.000000000001" y="618.0" />
+      <point x="1339.375000000001" y="618.0" />
+      <point x="1339.375000000001" y="324.0" />
+      <point x="1205.375000000001" y="324.0" />
+      <point x="-81.25" y="49.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="REALIZATION">
+      <point x="-58.75" y="-49.5" />
+      <point x="5880.5534013605375" y="1338.9170462916793" />
+      <point x="4979.535042887467" y="1338.9170462916793" />
+      <point x="47.18752588067582" y="36.35215038195929" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="76.75" y="-38.5" />
+      <point x="7561.677517006799" y="1475.5355399163855" />
+      <point x="7295.50830674153" y="1475.5355399163855" />
+      <point x="7295.50830674153" y="357.84634053384104" />
+      <point x="7940.223147589637" y="357.84634053384104" />
+      <point x="80.13141289576015" y="55.122828054268496" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.views.changecolor.ChangeColorViewModel" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="TO_ONE">
+      <point x="158.46471770426524" y="-115.57353685276826" />
+      <point x="4219.028969404933" y="1249.0" />
+      <point x="4860.865241305706" y="1249.0" />
+      <point x="-71.4822757010852" y="39.51484497799697" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="81.0" y="-49.5" />
+      <point x="7901.427517006799" y="1349.0" />
+      <point x="7518.132309062691" y="1349.0" />
+      <point x="4.873907702146425" y="123.88250332180587" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" relationship="CREATE">
+      <point x="-23.567048769300527" y="-49.41851282255175" />
+      <point x="2959.736352591238" y="1850.4499394438294" />
+      <point x="2959.3034013605384" y="1850.4499394438294" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts" relationship="REALIZATION">
+      <point x="108.0" y="-38.5" />
+      <point x="3067.3034013605384" y="1339.0" />
+      <point x="3316.0975170067913" y="1339.0" />
+      <point x="-35.5" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.simplemvvm.model.colors.InMemoryColorsRepository" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.ThreadUtils" relationship="TO_ONE">
+      <point x="0.0" y="-94.0" />
+      <point x="3321.8333333333344" y="1359.0" />
+      <point x="2167.2641836734583" y="1359.0" />
+      <point x="46.0" y="27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.AbstractTask" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.CancelledException" relationship="CREATE">
+      <point x="0.0" y="-105.0" />
+      <point x="1603.875000000001" y="314.54070526881543" />
+      <point x="1860.125000000001" y="314.54070526881543" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.views.activity.ActivityDelegate" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.ActivityScopeViewModel" relationship="CREATE">
+      <point x="-89.0" y="-193.0" />
+      <point x="357.0500680272107" y="989.0" />
+      <point x="-43.774224293027316" y="989.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" relationship="CREATE">
+      <point x="84.0" y="-50.0" />
+      <point x="7410.133401360545" y="1809.0" />
+      <point x="7484.927517006799" y="1809.0" />
+      <point x="0.0" y="38.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask.Companion" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.model.tasks.callback.CallbackTask" relationship="INNER_CLASS">
+      <point x="64.25" y="-27.0" />
+      <point x="2508.6475850340016" y="1359.0" />
+      <point x="2578.095068027205" y="1359.0" />
+      <point x="69.0" y="49.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-118.0" y="-61.0" />
+      <point x="8426.208333333336" y="1759.171484802158" />
+      <point x="6599.942668273647" y="1759.171484802158" />
+      <point x="78.04508323964546" y="63.042766935966256" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.4765961284685708" showDependencies="true" x="2565.821329396961" y="1690.2602408376524" />
+  <SelectedNodes>
+    <node>ru.mixail_akulov.a30_mvvm_sideeffects.foundation.BaseApplication</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

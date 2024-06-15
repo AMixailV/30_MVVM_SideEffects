@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects</OriginalElement>
+  <nodes>
+    <node x="76.4218267382534" y="679.2049224746042">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.Permissions</node>
+    <node x="456.2690780627363" y="997.3056313751985">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator</node>
+    <node x="925.9742632963031" y="679.2049224746042">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionStatus</node>
+    <node x="456.2690780627363" y="217.2798509716556">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator</node>
+    <node x="456.2690780627363" y="94.62445573919751">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator</node>
+    <node x="-482.7808045934338" y="678.9101449883442">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin</node>
+    <node x="456.2690780627363" y="344.7500410169044">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator</node>
+    <node x="-482.4254245862295" y="205.7798509716556">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin</node>
+    <node x="456.2690780627363" y="1141.4795202246896">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator</node>
+    <node x="76.4218267382534" y="216.9303247245188">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator</node>
+    <node x="-482.7808045934338" y="-84.53093949326058">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin</node>
+    <node x="77.4218267382534" y="94.62445573919751">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.Intents</node>
+    <node x="1431.5660727062254" y="-404.4408611798962">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementationsHolder</node>
+    <node x="8.913990316745071" y="-396.84172995817676">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPluginsManager</node>
+    <node x="77.4218267382534" y="997.3056313751985">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources</node>
+    <node x="-482.4254245862295" y="990.6674894405849">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin</node>
+    <node x="-482.4254245862295" y="71.62445573919751">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin</node>
+    <node x="945.892972253738" y="-404.4408611798962">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediatorsHolder</node>
+    <node x="-482.4254245862295" y="1129.9795202246896">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin</node>
+    <node x="1431.5660727062254" y="167.240094243293">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementation</node>
+    <node x="456.2690780627363" y="-84.53093949326058">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator</node>
+    <node x="456.2690780627363" y="-396.84172995817676">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator</node>
+    <node x="77.4218267382534" y="-73.03093949326058">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.Dialogs</node>
+    <node x="456.2690780627363" y="679.9039749688778">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator</node>
+    <node x="917.7435989212483" y="-84.53093949326058">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl</node>
+    <node x="77.4218267382534" y="1141.4795202246896">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts</node>
+    <node x="-482.7808045934339" y="-396.84172995817676">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin</node>
+    <node x="1190.9502488166647" y="-84.53093949326058">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogConfig</node>
+    <node x="456.2690780627363" y="850.1048031720381">ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl" relationship="CREATE">
+      <point x="65.4125223100475" y="49.5" />
+      <point x="-196.3682822833863" y="-141.4497901063099" />
+      <point x="1019.2846887384612" y="-141.4497901063099" />
+      <point x="-8.958910182787122" y="-73.03155051490923" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="109.68506492368806" y="6.597698106955647" />
+      <point x="673.9541429864244" y="129.83574348147164" />
+      <point x="860.753789683124" y="129.83574348147164" />
+      <point x="860.753789683124" y="-358.34172995817676" />
+      <point x="853.7021218450247" y="-358.34172995817676" />
+      <point x="853.7021218450247" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="TO_ONE">
+      <point x="181.63339924686284" y="11.343171652778665" />
+      <point x="-93.06711361000168" y="266.62302262443427" />
+      <point x="-93.06711361000168" y="260.7839370748789" />
+      <point x="-89.0" y="5.853612350360095" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="160.352797050385" y="-0.39360232091519265" />
+      <point x="860.753789683124" y="729.0103726479626" />
+      <point x="860.753789683124" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" relationship="CREATE">
+      <point x="-178.5" y="15.0" />
+      <point x="-171.77012339289826" y="270.2798509716556" />
+      <point x="-171.77012339289826" y="187.70523836515974" />
+      <point x="493.24354606632335" y="187.70523836515974" />
+      <point x="-80.52553199641295" y="-40.442819297447386" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="REALIZATION">
+      <point x="-137.5324807776691" y="-99.50067631102223" />
+      <point x="458.2365972850672" y="374.605029217253" />
+      <point x="165.4220137510967" y="374.605029217253" />
+      <point x="1.8701284329836199E-4" y="37.99976589604421" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-171.44654496051487" y="15.360547218389684" />
+      <point x="-621.784977926214" y="270.6403981900453" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.Resources" relationship="REALIZATION">
+      <point x="-118.02248982744243" y="3.689365550855996" />
+      <point x="372.54153846153827" y="1027.9949969260547" />
+      <point x="372.54153846153827" y="1029.7951055233398" />
+      <point x="107.41466194952926" y="5.489474148141085" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="119.76784501418592" y="2.8027249831707195" />
+      <point x="860.753789683124" y="1027.1083563583693" />
+      <point x="860.753789683124" y="-358.34172995817676" />
+      <point x="820.2921062794139" y="-358.34172995817676" />
+      <point x="820.2921062794139" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-220.79159934245087" y="3.2530933394144768" />
+      <point x="-482.57240393588467" y="-35.030939493260576" />
+      <point x="-621.784977926214" y="-35.030939493260576" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.Intents" relationship="REALIZATION">
+      <point x="-107.32571402002134" y="1.2075499947392103" />
+      <point x="381.722426037364" y="122.83200573393673" />
+      <point x="381.722426037364" y="121.62445573919751" />
+      <point x="354.8454524004949" y="121.62445573919751" />
+      <point x="354.8454524004949" y="121.65228656361998" />
+      <point x="89.12624017504979" y="0.027830824422466094" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.Permissions" relationship="REALIZATION">
+      <point x="-159.52248982744243" y="-15.664174063900532" />
+      <point x="425.6447420814477" y="713.7398009049773" />
+      <point x="425.6447420814477" y="715.5399095022623" />
+      <point x="159.12106918934813" y="-1.6650129723419695" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPluginsManager" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="TO_MANY">
+      <point x="-179.49574597285368" y="1.5904614225512432" />
+      <point x="13.418244343891388" y="-449.1999093863521" />
+      <point x="-288.2808045934339" y="-449.1999093863521" />
+      <point x="0.0" y="60.5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-139.6913821478807" y="0.30627729247675006" />
+      <point x="-621.784977926214" y="110.43073303167427" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.StackFragmentNavigator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="141.53957551916324" y="-0.048811695637994035" />
+      <point x="1028.7679674237886" y="471.2012293212664" />
+      <point x="1028.7679674237886" y="471.2500410169044" />
+      <point x="1593.5657113487564" y="471.2500410169044" />
+      <point x="-3.6135746912080435E-4" y="114.99958555662715" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="106.56747488567908" y="5.766984028703064" />
+      <point x="860.753789683124" y="1174.2465042533927" />
+      <point x="860.753789683124" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-141.84687075237008" y="0.8008751493872523" />
+      <point x="-221.55665732954975" y="1169.2803953740768" />
+      <point x="-221.55665732954975" y="1128.8771310844181" />
+      <point x="-621.784977926214" y="1128.8771310844181" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="3.8966141119090025E-5" y="70.99980866999397" />
+      <point x="1028.2436378873895" y="102.22923451478653" />
+      <point x="1593.5657113487564" y="102.22923451478653" />
+      <point x="-3.6135746912080435E-4" y="114.99958555662715" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="-122.49984686154767" y="2.3455762141111336E-4" />
+      <point x="860.753789683124" y="-46.030704935639164" />
+      <point x="860.753789683124" y="-358.34172995817676" />
+      <point x="853.7021218450247" y="-358.34172995817676" />
+      <point x="853.7021218450247" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-243.59170793973595" y="6.00777834655571" />
+      <point x="-484.37251253316975" y="728.4101449883442" />
+      <point x="-621.784977926214" y="728.4101449883442" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectMediator" relationship="CREATE">
+      <point x="194.6201291643365" y="-44.40829405163436" />
+      <point x="-42.56045823452723" y="684.0018509367098" />
+      <point x="-42.56045823452723" y="646.1446880024093" />
+      <point x="492.8453922201695" y="646.1446880024093" />
+      <point x="-122.92368584256678" y="-47.202232629452965" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.Navigator" relationship="REALIZATION">
+      <point x="-119.18515236065485" y="1.8210831561272016" />
+      <point x="251.6722284076018" y="257.1009341277828" />
+      <point x="86.2504016693484" y="4.530047743897455" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" relationship="CREATE">
+      <point x="199.45063954004" y="52.44335526142834" />
+      <point x="-41.33016505339381" y="814.504389070458" />
+      <point x="481.42137159818924" y="814.504389070458" />
+      <point x="-136.84770646454706" y="-20.846090252582485" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectPlugin" relationship="REALIZATION">
+      <point x="-156.94654496051487" y="12.305195526252078" />
+      <point x="-621.784977926214" y="1041.4726849668368" />
+      <point x="-621.784977926214" y="-336.3417716559542" />
+      <point x="-194.50000683915047" y="-4.1697777426463745E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.intens.plugin.IntentsSideEffectMediator" relationship="CREATE">
+      <point x="0.0" y="-38.5" />
+      <point x="-338.9254245862295" y="43.04675812296847" />
+      <point x="493.24354606632335" y="43.04675812296847" />
+      <point x="-71.02553199641295" y="-29.194808680373967" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" relationship="CREATE">
+      <point x="-143.5" y="0.0" />
+      <point x="-225.7804401349797" y="1168.4795202246896" />
+      <point x="-225.7804401349797" y="1098.8235048326371" />
+      <point x="562.7690780627363" y="1098.8235048326371" />
+      <point x="0.0" y="-27.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.navigator.plugin.NavigatorSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="GENERALIZATION">
+      <point x="-117.49997543532709" y="-3.28333685843063E-4" />
+      <point x="776.6373415384642" y="255.27952263796976" />
+      <point x="776.6373415384642" y="255.2798509716556" />
+      <point x="860.753789683124" y="255.2798509716556" />
+      <point x="860.753789683124" y="-358.3417795035541" />
+      <point x="-146.99958226936997" y="-4.954537735102349E-5" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.plugin.ToastsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.toasts.Toasts" relationship="REALIZATION">
+      <point x="-102.93639027993106" y="-0.07605271039983563" />
+      <point x="395.04289592760153" y="1168.4034675142898" />
+      <point x="395.04289592760153" y="1170.2035761115749" />
+      <point x="75.59663480020805" y="1.7240558868852531" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediatorsHolder" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectMediator" relationship="TO_MANY">
+      <point x="-140.58049804559437" y="-91.36465483820382" />
+      <point x="1156.1253009954737" y="-402.30551601810004" />
+      <point x="1156.1253009954737" y="-466.24537339366566" />
+      <point x="703.3619866063341" y="-466.24537339366566" />
+      <point x="100.09290854359779" y="-44.53982081105454" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.Dialogs" relationship="REALIZATION">
+      <point x="-124.11841126555998" y="-0.13662317070310337" />
+      <point x="408.8816906952318" y="-46.16756266396368" />
+      <point x="408.8816906952318" y="-46.030939493260576" />
+      <point x="122.5" y="0.0" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.resources.plugin.ResourcesSideEffectMediator" relationship="CREATE">
+      <point x="126.45595277704166" y="-41.71109406650805" />
+      <point x="-191.96947180918784" y="961.7052172736182" />
+      <point x="489.10128138410846" y="961.7052172736182" />
+      <point x="-85.16779667862784" y="-35.049127403836565" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.permissions.plugin.PermissionsSideEffectImpl" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.SideEffectImplementation" relationship="GENERALIZATION">
+      <point x="163.14079606576956" y="-3.691775363894749" />
+      <point x="1593.5657113487564" y="884.4130278081434" />
+      <point x="-3.6135746912080435E-4" y="114.99958555662715" />
+    </edge>
+    <edge source="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsPlugin" target="ru.mixail_akulov.a30_mvvm_sideeffects.foundation.sideeffects.dialogs.plugin.DialogsSideEffectMediator" relationship="CREATE">
+      <point x="80.59786672089754" y="-54.35038177370774" />
+      <point x="-181.18293787253626" y="-123.2362607602289" />
+      <point x="495.04365466360844" y="-123.2362607602289" />
+      <point x="-83.72542339912786" y="-41.55027317642265" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.35553410553410625" showDependencies="true" x="396.5749574660613" y="392.8380090497718" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
